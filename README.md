@@ -18,7 +18,17 @@
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="PHP" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 </div>
+<h2>CONTACTOS</h2>
 
+
+
+
+<div>
+
+<a href="https://api.whatsapp.com/send?phone=244940989200&text=Ola!Vi%seu%contacto%no%GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href = "mailto:gasparsilvio7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="instagram.com/silviooo_silva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</div>
 
 
 
