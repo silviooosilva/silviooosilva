@@ -18,7 +18,6 @@
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="PHP" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
    
-   <img align="center" alt="Symfony" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original-wordmark.svg"/>
    
 </div>
 <h2>CONTACTOS</h2>
