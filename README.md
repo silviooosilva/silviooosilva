@@ -31,7 +31,13 @@
 </div>
 
 
+<p align="center"> 
 
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/silviooosilva/count.svg" />
+ </p>
 
+</p>
 
 
