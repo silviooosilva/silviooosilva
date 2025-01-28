@@ -1,5 +1,5 @@
 <div>
-  <h2>Olá! Eu Sou o Sílvio Silva.</h2>
+  <h2>Hi! I'm Sílvio Silva.</h2>
 </div>
 
 
@@ -7,7 +7,7 @@
 <br>
 <img height="150em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=silviooosilva&theme=dracula&layout=compact' />
  
-<h2>TECNOLOGIAS</h2>
+<h2>TECHNOLOGIES</h2>
 <div style="display: inline_block">
 
  <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
    
    
 </div>
-<h2>CONTACTOS</h2>
+<h2>CONTACTS</h2>
 
 
 <div>
