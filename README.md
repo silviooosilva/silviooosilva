@@ -1,33 +1,35 @@
-<div>
-  <h2>Hi! I'm Sílvio Silva.</h2>
-</div>
+# Hi there, I'm Silvio 👋
 
+## About Me
+I'm a passionate developer with a love for learning new technologies and solving challenging problems. I have a strong background in web development, and I'm constantly looking to improve my skills and contribute to exciting projects.
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silviooosilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<br>
-<img height="150em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=silviooosilva&theme=dracula&layout=compact' />
- 
-<h2>TECHNOLOGIES</h2>
-<div style="display: inline_block">
+## Skills
+- **Languages:** Python, JavaScript, PHP
+- **Frameworks:** Laravel, Vue.JS, Angular, PHPUnit
+- **Tools:** Git, Docker, Linux
+- **Databases:** MySQL, SQLite, PostgreSQL
+- **Others:** API Integration, Payment Gateway Implementation, Clean Code, Agile Methodologies
 
- <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+## Projects
+Here are a few projects that I've worked on recently:
 
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- [**CacheerPHP**](https://github.com/silviooosilva/CacheerPHP): CacheerPHP is a minimalist package for caching in PHP, offering a simple interface for storing and retrieving cached data using files or databases.
+- [**Py - File Organizer**](https://github.com/silviooosilva/Py-File-Organizer): Py - File Organizer is a simple, super intuitive (with the user in mind) program for automating the process of organizing directories.
+- [**Restaurant-Reservation-API**](https://github.com/silviooosilva/Restaurant-Reservation-API): The Restaurant Reservation API is an application built with Laravel that allows you to manage table reservations in restaurants.
 
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="PHP" height="40" width="40"src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-   
-   
-</div>
-<h2>CONTACTS</h2>
+## Get in Touch
+- **LinkedIn:** [Sílvio Silva](https://www.linkedin.com/in/silviooosilva/)
+- **Email:** [Contact Me :)](mailto:gasparsilvio7@gmail.com)
 
+## GitHub Stats
+![Silvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviooosilva&show_icons=true&theme=radical)
 
-<div>
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silviooosilva&layout=compact&theme=radical)
 
-<a href="https://api.whatsapp.com/send?phone=+19055129367&text=Ola!Vi%seu%contacto%no%GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href = "mailto:gasparsilvio7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Contributions
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=silviooosilva&theme=radical)
 
-
-
+<!--
+**silviooosilva/silviooosilva** is a special repository because its `README.md` (this file) appears on your GitHub profile.
+-->
