@@ -16,6 +16,7 @@ Here are a few projects that I've worked on recently:
 - [**CacheerPHP**](https://github.com/silviooosilva/CacheerPHP): CacheerPHP is a minimalist package for caching in PHP, offering a simple interface for storing and retrieving cached data using files or databases.
 - [**Py - File Organizer**](https://github.com/silviooosilva/Py-File-Organizer): Py - File Organizer is a simple, super intuitive (with the user in mind) program for automating the process of organizing directories.
 - [**Restaurant-Reservation-API**](https://github.com/silviooosilva/Restaurant-Reservation-API): The Restaurant Reservation API is an application built with Laravel that allows you to manage table reservations in restaurants.
+- [**Phession**](https://github.com/silviooosilva/Phession): Phession is a lightweight and efficient library for managing PHP sessions, providing more flexible and secure control.
 
 ## Get in Touch
 - **LinkedIn:** [Sílvio Silva](https://www.linkedin.com/in/silviooosilva/)
