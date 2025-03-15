@@ -5,9 +5,9 @@ I'm a passionate developer with a love for learning new technologies and solving
 
 ## Skills
 - **Languages:** Python, JavaScript, PHP
-- **Frameworks:** Laravel, Vue.JS, Angular, PHPUnit
+- **Frameworks:** Laravel, Vue.JS, PHPUnit
 - **Tools:** Git, Docker, Linux
-- **Databases:** MySQL, SQLite, PostgreSQL
+- **Databases:** MySQL, SQLite, PostgreSQL, MariaDB
 - **Others:** API Integration, Payment Gateway Implementation, Clean Code, Agile Methodologies
 
 ## Projects
